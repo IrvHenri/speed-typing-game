@@ -1,6 +1,6 @@
 # Speed-Typing-game
 
-A speed typign game with a countdown timer.
+A speed typing game with a countdown timer.
 
 ## Demo
 
