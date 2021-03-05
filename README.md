@@ -11,7 +11,7 @@ https://the-speed-typing-game.herokuapp.com/
 
 ## Motivation
 
-- To practice using react hooks to manage stage, implement lifecycle methods and create custom hooks for reusability.
+- To practice using react hooks to manage state, implement lifecycle methods and create custom hooks for reusability.
 
 ## Tech Stack
 - React
